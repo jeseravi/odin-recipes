@@ -1,1 +1,2 @@
 # odin-recipes
+This project's purpose is to create a website which contains several recipes of my choosing. This project will demonstrate my ability to create a webpage, link to other websites, link to local files/sites, and use a vareity of html tags to make the website less bland. 
